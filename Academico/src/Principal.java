@@ -24,7 +24,9 @@ public class Principal {
 	System.out.println("Carga Horária: " + d1.getCargaHoraria());
 	
 	
+	System.out.println("Daniel quer commitar");
 	
+	System.out.println("Estamos perdidos");
 	
 
 	
